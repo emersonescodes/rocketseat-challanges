@@ -35,7 +35,7 @@ body {
   gap: 15px;
 }
 
-.menu__link {
+.menu-link {
   display: inline-block;
   width: 18.75rem;
   padding: 15px;
@@ -55,7 +55,7 @@ body {
   gap: 30px;
 }
 
-.social__link {
+.social-link {
   padding: 10px;
   display: flex;
   align-items: center;
